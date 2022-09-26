@@ -1,0 +1,183 @@
+body{
+#demo 
+background: #8D3D26;
+background: -moz-linear-gradient(left, #8D3D26 0%, #000000 0%, #805D23 100%);
+background: -webkit-linear-gradient(left, #8D3D26 0%, #000000 0%, #805D23 100%);
+background: linear-gradient(to right, #8D3D26 0%, #000000 0%, #805D23 100%);
+
+
+}
+.japon{
+	background-color: white;
+	width: 600px;
+	height: 400px;
+	margin: 50px;
+	display: inline-block;
+	position: absolute;
+	top: -122%;
+	left: -609%;
+}
+
+        .japon .circulito{
+	    width: 180px;
+        height: 180px;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        background-color: red;
+        position: absolute;
+        top: 27%;
+        left: 35%;
+    
+}
+   
+        .linkjapon{
+	    font-family: 'Oswald', sans-serif;
+	    font-size: 45px;
+	    color: white;
+	    position: absolute;
+	    top: -100%;
+	    left: 20%;
+
+}
+
+.laos{
+	background-color: #36097C;
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	display: inline-block;
+
+
+}
+
+        .franja1{
+	    background-color: #D8232A;
+	    width: 600px;
+	    height: 120px;
+	    position: absolute;
+	    left: 0%;
+	    top: 0%;
+}
+
+
+        .franja2{
+	    background-color: #D8232A;
+	    width: 600px;
+	    height: 120px;
+	    position: absolute;
+	    top: 235%;
+	
+}
+        .circulito2{
+	    width: 145px;
+        height: 145px;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        background: whitesmoke;
+        position: absolute;	
+        top: -128%;
+        left: 37.5%;
+     
+}
+        .linklaos{
+        font-family: 'Oswald', sans-serif;
+	    font-size: 45px;
+	    color: white;
+	    position: absolute;
+	    top: -295%;
+	    left: 42%;
+
+}
+
+.mexico{
+	background-color: white;
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	top: 230%;
+	left: -575%;
+	display: inline-block;
+}
+        .verde{
+	    width: 205px;
+	    height: 400px;
+	    background-color: #097C2C;
+
+}
+       .rojo{
+	   width: 205px;
+	   height: 400px;
+	   background-color:#D8232A;
+	   position: absolute;
+	   top: 0%;
+	   left: 66%;
+}
+       .foto{
+	   position: absolute;
+	   top: 310%;
+	   left: -435%;
+	
+
+}
+       .linkmex{
+       font-family: 'Oswald', sans-serif;
+	   font-size: 45px;
+	   color: white;
+	   position: absolute;
+	   top: -17%;
+	   left: 39%;
+}
+ 
+.mlaos{
+	position: absolute;
+	right: -167%;
+	top: 2%;
+}
+
+.mmexico{
+	position: absolute;
+	right: 105%;
+	top: 140%;
+}
+
+.mjapon{
+	position: absolute;
+	right: 100%;
+	top: -5%;
+}
+
+
+.djapon{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 17px;
+	color: white;
+	position: absolute;
+	top: 120%;
+	left: 110%;
+	right: -100%;
+}
+
+.dlaos{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 17px;
+	color: white;
+	position: absolute;
+	top: 152%;
+	left: 110%;
+	right: -100%;
+}
+
+.dmexico{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 17px;
+	color: white;
+	position: absolute;
+	top: 180%;
+	left: 110%;
+	right: -100%;
+}
+}
